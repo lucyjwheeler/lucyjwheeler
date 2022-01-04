@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lucy 
+- 👀 I’m interested in Game Engine Software, Unreal Engine.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on creative technology applications that explore digital culture.
+- 📫 How to reach me : https://www.linkedin.com/in/lucy-wheeler/
